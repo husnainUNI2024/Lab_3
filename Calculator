@@ -1,6 +1,13 @@
+
+#include <iostream> 
 #include<iostream>
+
 using namespace std;
 int main()
 {
 cout<<"My Name Is"<<"Husnain faisal"<<endl;
 cout<<"My Roll Number is"<<"23-SET-042"<<endl;
+cout<<"The addition of these two numbers are"<< a+b <<endl;
+cout<<"The subtraction of these two numbers are"<< a-b <<endl;
+cout<<"The multiplication of these two numbers are"<< a*b <<endl;
+cout<<"The division of these two numbers are"<< a/b <<endl;
