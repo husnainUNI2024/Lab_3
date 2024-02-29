@@ -1,3 +1,6 @@
-
+#include<iostream>
+using namespace std;
+int main()
+{
 cout<<"My Name Is"<<"Husnain faisal"<<endl;
 cout<<"My Roll Number is"<<"23-SET-042"<<endl;
